@@ -23,7 +23,7 @@
 
 ## ✨ Fitur & Elemen Utama
 
-- ** Atmosfer & Desain Audio Imersif**
+- **Atmosfer & Desain Audio Imersif**
   - Latar suara ambien malam hari (`Malam_Ambience`), dengung nada telepon samar (`Faint_Dial_Tone`), efek suara pintu interaktif, serta *stinger* horor dinamis.
 - **Sistem Interaksi Lingkungan**
   - Interaksi objek berbasis Blueprint (`BP_PlayerCharacter` & `BP_TestInteractable`), meliputi mekanik buka/tutup pintu (`BP_Door`), sakelar/perilaku lampu (`BP_Lampu`), bingkai foto (`BP_Foto`), hingga perangkat laptop (`BP_Laptop`) dengan pemutar media video terintegrasi (`MediaPlayer_LaptopKu`).
